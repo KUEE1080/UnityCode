@@ -2,6 +2,7 @@
 
 ##유니티 -> oculus rift 레퍼런스 목록
 1. https://developer.oculus.com/documentation/game-engines/latest/concepts/unity-tutorial-rollaball-intro/
+2. http://unity3d.com/learn/tutorials/topics/virtual-reality
 
 
 ##유니티 asset 레퍼런스
